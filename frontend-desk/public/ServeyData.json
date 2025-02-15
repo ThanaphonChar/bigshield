@@ -1,0 +1,695 @@
+[
+    {
+        "part1": {
+            "Info": {
+                "name": "นายณัฐนันท์",
+                "surname": "ชัยชมวงศ์",
+                "idCard": "9-9999-99999-99-9",
+                "birthDay": "01/01/2547",
+                "age": "20",
+                "gender": "ชาย",
+                "education": "ปริญญาตรี",
+                "phone": "066-666-6666"
+            },
+            "Address": {
+                "latitude": "18.315527",
+                "longitude": "99.3994031017858",
+                "homeID": "6666-6666666",
+                "address": "มหาวิทยาลัยธรรมศาสตร์ ศูนย์ลำปาง 248 หมู่ที่ 2 ถนน ถนนซุปเปอร์ไฮเวย์ เชียงใหม่-ลำปาง ตำบลปงยางคก อำเภอห้างฉัตร จังหวัดลำปาง 52190"
+            },
+            "Conditions": {
+                "conditions": "มีที่อยู่อาศัยเป็นของตนเองและมั่นคงถาวร",
+                "type": "บ้านเดี่ยวสองชั้น เป็นกรรมสิทธิ์ของครอบครัว มีเอกสารสิทธิ์เป็นโฉนดที่ดิน ตั้งอยู่ในเขตเมือง มีการต่อเติมและบำรุงรักษาอย่างดี"
+            },
+            "Family": {
+                "no1": {
+                    "idCard": "9-9999-99999-99-9",
+                    "birthDay": "01/01/2547",
+                    "age": "20",
+                    "gender": "ชาย",
+                    "relationship": "ลูกชาย",
+                    "career": "นักศึกษา",
+                    "income": "6,000",
+                    "capacity": "ปกติ",
+                    "helpYourself": "ได้",
+                    "note": "ผู้พิการ"
+                },
+                "no2": {
+                    "idCard": "8-8888-88888-88-8",
+                    "birthDay": "15/05/2548",
+                    "age": "19",
+                    "gender": "หญิง",
+                    "relationship": "ลูกสาว",
+                    "career": "นักศึกษา",
+                    "income": "7,500",
+                    "capacity": "ปกติ",
+                    "helpYourself": "ได้",
+                    "note": "-"
+                },
+                "no3": {
+                    "idCard": "7-7777-77777-77-7",
+                    "birthDay": "20/10/2546",
+                    "age": "59",
+                    "gender": "ชาย",
+                    "relationship": "พ่อ",
+                    "career": "รับจ้าง",
+                    "income": "20,000",
+                    "capacity": "ปกติ",
+                    "helpYourself": "ได้",
+                    "note": "ผู้สูงอายุ"
+                }
+            },
+            "surveySummary": "ผู้ตอบแบบสอบถามรู้สึกว่าสวัสดิการที่ได้รับไม่เพียงพอต่อความต้องการ โดยเฉพาะในกลุ่มผู้สูงอายุและผู้มีรายได้น้อย",
+            "surveyDate": "1 ตุลาคม 2567"
+        },
+        "part2": {
+            "first": {
+                "avg": 12,
+                "score": 3
+            },
+            "second": {
+                "avg": 10,
+                "score": 2
+            },
+            "third": {
+                "avg": 15,
+                "score": 3
+            },
+            "fourth": {
+                "avg": 7,
+                "score": 1
+            },
+            "fifth": {
+                "avg": 3,
+                "score": 0
+            },
+            "sixth": {
+                "avg": 3,
+                "score": 0
+            },
+            "seventh": {
+                "avg": 6,
+                "score": 1
+            },
+            "eighth": {
+                "avg": 2,
+                "score": 0
+            },
+            "average": {
+                "score": 15
+            }
+        },
+        "part3": {
+            "1": "เงินอุดหนุนเด็กแรกเกิด",
+            "2": "กองทุนผู้สูงอายุ"
+        },
+        "part4": {},
+        "part5": {}
+    },
+    {
+        "part1": {
+            "Info": {
+                "name": "นางสาวกานดา",
+                "surname": "สมใจ",
+                "idCard": "2-2222-22222-22-2",
+                "birthDay": "15/03/2545",
+                "age": "22",
+                "gender": "หญิง",
+                "education": "ปริญญาตรี",
+                "phone": "088-888-8888"
+            },
+            "Address": {
+                "latitude": "18.215927",
+                "longitude": "99.3704031017858",
+                "homeID": "2222-2222222",
+                "address": "หมู่ที่ 5 ตำบลชมพู อำเภอเมืองลำปาง จังหวัดลำปาง 52100"
+            },
+            "Conditions": {
+                "conditions": "เช่าที่อยู่อาศัยเป็นรายเดือน",
+                "type": "คอนโดมิเนียม เป็นสัญญาเช่ารายเดือน ตั้งอยู่ในเขตเมือง"
+            },
+            "Family": {
+                "no1": {
+                    "idCard": "3-3333-33333-33-3",
+                    "birthDay": "05/12/2523",
+                    "age": "43",
+                    "gender": "หญิง",
+                    "relationship": "มารดา",
+                    "career": "ค้าขาย",
+                    "income": "15,000",
+                    "capacity": "ปกติ",
+                    "helpYourself": "ได้",
+                    "note": "-"
+                }
+            },
+            "surveySummary": "Needs improvement veryๆๆ",
+            "surveyDate": "22 ตุลาคม 2567"
+        },
+        "part2": {
+            "first": {
+                "avg": 14,
+                "score": 3
+            },
+            "second": {
+                "avg": 11,
+                "score": 2
+            },
+            "third": {
+                "avg": 13,
+                "score": 3
+            },
+            "fourth": {
+                "avg": 6,
+                "score": 1
+            },
+            "fifth": {
+                "avg": 2,
+                "score": 0
+            },
+            "sixth": {
+                "avg": 2,
+                "score": 0
+            },
+            "seventh": {
+                "avg": 5,
+                "score": 1
+            },
+            "eighth": {
+                "avg": 1,
+                "score": 0
+            },
+            "average": {
+                "score": 17
+            }
+        },
+        "part3": {
+            "1": "กองทุนผู้สูงอายุ"
+        },
+        "part4": {},
+        "part5": {}
+    },
+    {
+        "part1": {
+            "Info": {
+                "name": "นายสมชาย",
+                "surname": "ใจดี",
+                "idCard": "1-1111-11111-11-1",
+                "birthDay": "20/11/2528",
+                "age": "36",
+                "gender": "ชาย",
+                "education": "มัธยมศึกษา",
+                "phone": "077-777-7777"
+            },
+            "Address": {
+                "latitude": "18.301527",
+                "longitude": "99.3079031017858",
+                "homeID": "1111-1111111",
+                "address": "55 หมู่ที่ 5 ตำบลชมพู อำเภอเมืองลำปาง จังหวัดลำปาง 52100"
+            },
+            "Conditions": {
+                "conditions": "มีที่อยู่อาศัยเป็นของตนเอง",
+                "type": "บ้านชั้นเดียว ตั้งอยู่ในเขตชุมชน มีเอกสารสิทธิ์เป็นโฉนดที่ดิน"
+            },
+            "Family": {
+                "no1": {
+                    "idCard": "4-4444-44444-44-4",
+                    "birthDay": "10/07/2527",
+                    "age": "37",
+                    "gender": "หญิง",
+                    "relationship": "ภรรยา",
+                    "career": "แม่บ้าน",
+                    "income": "5,000",
+                    "capacity": "ปกติ",
+                    "helpYourself": "ได้",
+                    "note": "-"
+                },
+                "no2": {
+                    "idCard": "5-5555-55555-55-5",
+                    "birthDay": "12/05/2562",
+                    "age": "2",
+                    "gender": "ชาย",
+                    "relationship": "บุตร",
+                    "career": "เด็กเล็ก",
+                    "income": "0",
+                    "capacity": "ปกติ",
+                    "helpYourself": "ไม่ได้",
+                    "note": "-"
+                }
+            },
+            "surveySummary": "ผู้ตอบแบบสอบถามรู้สึกว่าสวัสดิการที่ได้รับไม่เพียงพอต่อความต้องการ",
+            "surveyDate": "20 ตุลาคม 2567"
+        },
+        "part2": {
+            "first": {
+                "avg": 10,
+                "score": 2
+            },
+            "second": {
+                "avg": 8,
+                "score": 1
+            },
+            "third": {
+                "avg": 12,
+                "score": 3
+            },
+            "fourth": {
+                "avg": 6,
+                "score": 1
+            },
+            "fifth": {
+                "avg": 4,
+                "score": 1
+            },
+            "sixth": {
+                "avg": 3,
+                "score": 0
+            },
+            "seventh": {
+                "avg": 5,
+                "score": 1
+            },
+            "eighth": {
+                "avg": 2,
+                "score": 0
+            },
+            "average": {
+                "score": 10
+            }
+        },
+        "part3": {
+            "1": "กองทุนผู้สูงอายุ"
+        },
+        "part4": {},
+        "part5": {}
+    },
+    {
+        "part1": {
+            "Info": {
+                "name": "นายศักดิ์ชัย",
+                "surname": "บุญช่วย",
+                "idCard": "6-6666-66666-66-6",
+                "birthDay": "11/02/2520",
+                "age": "47",
+                "gender": "ชาย",
+                "education": "ปริญญาโท",
+                "phone": "099-999-9999"
+            },
+            "Address": {
+                "latitude": "18.5",
+                "longitude": "99.6",
+                "homeID": "6666-6666666",
+                "address": "102/5 หมู่ที่ 6 ตำบลบ้านอ้อน อำเภองาว จังหวัดลำปาง"
+            },
+            "Conditions": {
+                "conditions": "มีบ้านพักเป็นกรรมสิทธิ์ส่วนตัว",
+                "type": "บ้านเดี่ยวชั้นเดียว มีโฉนดที่ดิน ตั้งอยู่ในเขตชุมชน มีการบำรุงรักษาเป็นประจำ"
+            },
+            "Family": {
+                "no1": {
+                    "idCard": "6-7777-77777-77-7",
+                    "birthDay": "08/08/2525",
+                    "age": "42",
+                    "gender": "หญิง",
+                    "relationship": "ภรรยา",
+                    "career": "แม่บ้าน",
+                    "income": "0",
+                    "capacity": "ปกติ",
+                    "helpYourself": "ได้",
+                    "note": "-"
+                }
+            },
+            "surveySummary": "Improvement",
+            "surveyDate": "9 ตุลาคม 2567"
+        },
+        "part2": {
+            "first": {
+                "avg": 13,
+                "score": 3
+            },
+            "second": {
+                "avg": 9,
+                "score": 2
+            },
+            "third": {
+                "avg": 11,
+                "score": 2
+            },
+            "fourth": {
+                "avg": 8,
+                "score": 1
+            },
+            "fifth": {
+                "avg": 4,
+                "score": 1
+            },
+            "sixth": {
+                "avg": 2,
+                "score": 0
+            },
+            "seventh": {
+                "avg": 6,
+                "score": 1
+            },
+            "eighth": {
+                "avg": 1,
+                "score": 0
+            },
+            "average": {
+                "score": 20
+            }
+        },
+        "part3": {
+            "1": "กองทุนผู้สูงอายุ"
+        },
+        "part4": {},
+        "part5": {}
+    },
+    {
+        "part1": {
+            "Info": {
+                "name": "นางสาวสุภาวดี",
+                "surname": "พรรณราย",
+                "idCard": "7-7777-77777-77-7",
+                "birthDay": "25/06/2533",
+                "age": "34",
+                "gender": "หญิง",
+                "education": "ปริญญาตรี",
+                "phone": "088-888-8888"
+            },
+            "Address": {
+                "latitude": "18.4",
+                "longitude": "99.7",
+                "homeID": "7777-7777777",
+                "address": "52 หมู่ที่ 9 ตำบลหัวเวียง อำเภอเมืองลำปาง จังหวัดลำปาง 52000"
+            },
+            "Conditions": {
+                "conditions": "อาศัยอยู่กับครอบครัว",
+                "type": "บ้านครึ่งไม้ครึ่งปูน มีโฉนดที่ดิน ตั้งอยู่ในเขตชนบท"
+            },
+            "Family": {
+                "no1": {
+                    "idCard": "8-8888-88888-88-8",
+                    "birthDay": "15/03/2528",
+                    "age": "39",
+                    "gender": "ชาย",
+                    "relationship": "พี่ชาย",
+                    "career": "เกษตรกร",
+                    "income": "15,000",
+                    "capacity": "ปกติ",
+                    "helpYourself": "ได้",
+                    "note": "-"
+                }
+            },
+            "surveySummary": "Clean and safe area",
+            "surveyDate": "18 ตุลาคม 2565"
+        },
+        "part2": {
+            "first": {
+                "avg": 10,
+                "score": 2
+            },
+            "second": {
+                "avg": 9,
+                "score": 2
+            },
+            "third": {
+                "avg": 12,
+                "score": 3
+            },
+            "fourth": {
+                "avg": 7,
+                "score": 1
+            },
+            "fifth": {
+                "avg": 4,
+                "score": 1
+            },
+            "sixth": {
+                "avg": 3,
+                "score": 0
+            },
+            "seventh": {
+                "avg": 5,
+                "score": 1
+            },
+            "eighth": {
+                "avg": 1,
+                "score": 0
+            },
+            "average": {
+                "score": 9
+            }
+        },
+        "part3": {
+            "1": "เงินอุดหนุนผู้พิการ"
+        },
+        "part4": {},
+        "part5": {}
+    },
+    {
+        "part1": {
+            "Info": {
+                "name": "นายก้องภพ",
+                "surname": "ทวีสุข",
+                "idCard": "9-9999-99999-99-9",
+                "birthDay": "18/09/2538",
+                "age": "29",
+                "gender": "ชาย",
+                "education": "มัธยมศึกษาตอนปลาย",
+                "phone": "077-777-7777"
+            },
+            "Address": {
+                "latitude": "18.1",
+                "longitude": "99.6",
+                "homeID": "9999-9999999",
+                "address": "167/12 ตำบลหัวเวียง อำเภอเมืองลำปาง จังหวัดลำปาง 52000"
+            },
+            "Conditions": {
+                "conditions": "เช่าห้องพักรายเดือน",
+                "type": "อพาร์ทเมนต์ มีสัญญาเช่ารายเดือน ตั้งอยู่ในเขตเมือง"
+            },
+            "Family": {
+                "no1": {
+                    "idCard": "1-1111-11111-11-1",
+                    "birthDay": "10/07/2523",
+                    "age": "44",
+                    "gender": "หญิง",
+                    "relationship": "มารดา",
+                    "career": "พนักงานบริษัท",
+                    "income": "20,000",
+                    "capacity": "ปกติ",
+                    "helpYourself": "ได้",
+                    "note": "-"
+                }
+            },
+            "surveySummary": "ผู้ตอบแบบสอบถามรู้สึกว่า...",
+            "surveyDate": "3 ตุลาคม 2567"
+        },
+        "part2": {
+            "first": {
+                "avg": 12,
+                "score": 3
+            },
+            "second": {
+                "avg": 10,
+                "score": 2
+            },
+            "third": {
+                "avg": 13,
+                "score": 3
+            },
+            "fourth": {
+                "avg": 5,
+                "score": 1
+            },
+            "fifth": {
+                "avg": 3,
+                "score": 0
+            },
+            "sixth": {
+                "avg": 2,
+                "score": 0
+            },
+            "seventh": {
+                "avg": 6,
+                "score": 1
+            },
+            "eighth": {
+                "avg": 2,
+                "score": 0
+            },
+            "average": {
+                "score": 12
+            }
+        },
+        "part3": {
+            "1": "สวัสดิการพนักงานบริษัท"
+        },
+        "part4": {},
+        "part5": {}
+    },
+    {
+        "part1": {
+            "Info": {
+                "name": "นายสมศักดิ์",
+                "surname": "มาดิก",
+                "idCard": "9-9999-99999-99-9",
+                "birthDay": "18/09/2538",
+                "age": "29",
+                "gender": "ชาย",
+                "education": "มัธยมศึกษาตอนปลาย",
+                "phone": "077-777-7777"
+            },
+            "Address": {
+                "latitude": "18.2",
+                "longitude": "99.8",
+                "homeID": "9999-9999999",
+                "address": "999 หมู่ที่ 9 ตำบลทุ่งกว๋าว อำเภอเมืองปาน จังหวัดลำปาง 52240"
+            },
+            "Conditions": {
+                "conditions": "เช่าห้องพักรายเดือน",
+                "type": "อพาร์ทเมนต์ มีสัญญาเช่ารายเดือน ตั้งอยู่ในเขตเมือง"
+            },
+            "Family": {
+                "no1": {
+                    "idCard": "1-1111-11111-11-1",
+                    "birthDay": "10/07/2523",
+                    "age": "44",
+                    "gender": "หญิง",
+                    "relationship": "มารดา",
+                    "career": "พนักงานบริษัท",
+                    "income": "20,000",
+                    "capacity": "ปกติ",
+                    "helpYourself": "ได้",
+                    "note": "-"
+                }
+            },
+            "surveySummary": "Needs clean",
+            "surveyDate": "3 ตุลาคม 2567"
+        },
+        "part2": {
+            "first": {
+                "avg": 12,
+                "score": 3
+            },
+            "second": {
+                "avg": 10,
+                "score": 2
+            },
+            "third": {
+                "avg": 13,
+                "score": 3
+            },
+            "fourth": {
+                "avg": 5,
+                "score": 1
+            },
+            "fifth": {
+                "avg": 3,
+                "score": 0
+            },
+            "sixth": {
+                "avg": 2,
+                "score": 0
+            },
+            "seventh": {
+                "avg": 6,
+                "score": 1
+            },
+            "eighth": {
+                "avg": 2,
+                "score": 0
+            },
+            "average": {
+                "score": 8
+            }
+        },
+        "part3": {
+            "1": "สวัสดิการพนักงานบริษัท"
+        },
+        "part4": {},
+        "part5": {}
+    },
+    {
+        "part1": {
+            "Info": {
+                "name": "นายดัสติน",
+                "surname": "สุจริต",
+                "idCard": "9-9999-99999-99-9",
+                "birthDay": "18/09/2538",
+                "age": "29",
+                "gender": "ชาย",
+                "education": "มัธยมศึกษาตอนปลาย",
+                "phone": "077-777-7777"
+            },
+            "Address": {
+                "latitude": "18.3",
+                "longitude": "99.6",
+                "homeID": "9999-9999999",
+                "address": "456-458 ถนนไฮเวย์ลำปาง-เชียงใหม่ ตำบลพระบาท อำเภอเมืองลำปาง จังหวัดลำปาง 52000"
+            },
+            "Conditions": {
+                "conditions": "เช่าห้องพักรายเดือน",
+                "type": "อพาร์ทเมนต์ มีสัญญาเช่ารายเดือน ตั้งอยู่ในเขตเมือง"
+            },
+            "Family": {
+                "no1": {
+                    "idCard": "1-1111-11111-11-1",
+                    "birthDay": "10/07/2523",
+                    "age": "44",
+                    "gender": "หญิง",
+                    "relationship": "มารดา",
+                    "career": "พนักงานบริษัท",
+                    "income": "20,000",
+                    "capacity": "ปกติ",
+                    "helpYourself": "ได้",
+                    "note": "-"
+                }
+            },
+            "surveySummary": "Needs clean",
+            "surveyDate": "3 ตุลาคม 2567"
+        },
+        "part2": {
+            "first": {
+                "avg": 12,
+                "score": 3
+            },
+            "second": {
+                "avg": 10,
+                "score": 2
+            },
+            "third": {
+                "avg": 13,
+                "score": 3
+            },
+            "fourth": {
+                "avg": 5,
+                "score": 1
+            },
+            "fifth": {
+                "avg": 3,
+                "score": 0
+            },
+            "sixth": {
+                "avg": 2,
+                "score": 0
+            },
+            "seventh": {
+                "avg": 6,
+                "score": 1
+            },
+            "eighth": {
+                "avg": 2,
+                "score": 0
+            },
+            "average": {
+                "score": 1
+            }
+        },
+        "part3": {
+            "1": "สวัสดิการพนักงานบริษัท"
+        },
+        "part4": {},
+        "part5": {}
+    }
+]
